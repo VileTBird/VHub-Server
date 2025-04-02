@@ -1,4 +1,4 @@
-# VCS API Server
+# VHUB API
 
 This is a modular version control system (VCS) API server built using Flask. It supports multiple backend implementations, allowing flexibility in how repositories and commits are managed. The current implementations include:
 
